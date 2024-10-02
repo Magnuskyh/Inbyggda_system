@@ -1,6 +1,6 @@
 Inbyggda system programmering
 Uppgift 1, Magnus Petersson
-20241001
+20241002
 
 Beskrivning
 Detta C++-program beräknar en cirkels area, diameter och omkrets baserat på en användardefinierad radie. 
