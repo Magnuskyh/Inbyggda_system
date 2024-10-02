@@ -27,9 +27,9 @@ Efter det behövs en textredigerare eller IDE för att skriva och kompilera prog
 
 Kompilering och körning
 Öppna en terminal eller kommandotolk
-Navigera till den katalog källkoden finns. (uppgift2.cpp)
-Kompilera koden med följande kommando: g++ uppgift2.cpp -o uppgift
-kör det kompilerade programmet med följande kommando: ./uppgift
+Navigera till den katalog källkoden finns. (uppgift1.cpp)
+Kompilera koden med följande kommando: g++ uppgift1.cpp -o uppgift
+Kör det kompilerade programmet med följande kommando: ./uppgift
 
 Användning
 När du kör programmet, kommer du att uppmanas att ange en radie i meter.
